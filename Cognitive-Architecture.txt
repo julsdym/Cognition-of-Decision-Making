@@ -99,9 +99,33 @@ storage component of central executive: working memory holds long sentences
 what is the clustering problem in dual process theory?
 - the argument against dual process theory, that they are not truly 2 distinct processes because some of their attributes overlap (some t1 attributes could be allocated to t2 processes and vice versa)
 
+how can we explain how we catch a ball?
+- subconsciously (T1): solves set of differential equations to predict trajectory of ball
+- actually: we use a gaze heuristic (set of rules) to determine + guess where the ball will land (can be used unconsiously OR consciously)
 
+what is an example of gaze heuristic?
+- pilots flying a plane: when another plane is flying toward you, focus on an object as a reference point, see if plane is getting closer or farther from that point
+
+what is the unimodal explanation of cognitive load effects?
+- if there is a tax on the attention capacity, there will be a reduced search for rules + a reduced likelihood that complex rules will be applied
+
+how do we select rules/heuristics?
+- processing potential (attention + processing motivation)
+- ecological validity of rule
+- task constraints + memory constraints
 
 What is the new unconscious?
 - individual cannot self-report some cognitive states or processes because they are unconscious (inaccessible)
 
+when participants asked to take a poster home (art vs cats), why did participants who explained why they liked a poster choose more cats than art?
+- because it is easier to explain why they liked the cat poster, it is difficult to explain why you would like an artistic poster more 
+
+what can be said about introspection (verbal reports on mental porcesses) ?
+- we have no direct awareness of perceptual memory processes, but we do have awareness of their contents
+
+what were the findings of the two-string problem? how is it relevant?
+
+what was the point of the identical stocking problem?
+
+unconscious thought theory is not real
 
