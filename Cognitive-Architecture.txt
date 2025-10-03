@@ -1,7 +1,3 @@
-1. Explain the concept
-2. Explain how it is relevant to judgment making or decision making.
-3. Explain why I find it interesting.
-
 What is a judgment?
 What you think should be the case.
 
@@ -16,10 +12,96 @@ What are normative claims?
 - subjective (your opinion, what you think should be the case).
 If I say the sky should be pink, this is a normative claim, it is my opinion of what I think the sky should be.
 
+What is a Cognitive Reflection Test?
+- Measures an individual's ability to suppress an initial incorrect answer in favor of a correct reflective one. 
+- Three problems designed to elicit wrong answers, forcing responsers to engage a slower, more deliberate 'Type 2' cognitive process to arrive at the right solution.
+- Used as evidence for the dual processing theory: that there 2 different cognitive processes
+
+What is evidence that CRT problems generate an 'intuitive' answer?
+- incorrect answers dominate 
+- people who gave correct answer consider the wrong answer initially
+- those who provide incorrect answers thought the problems were easier than the people who provided correct answers.
+
 What is Dual-Processing Theory?
+- Theories that cognitive processes (decision and judgment making) cluster into two different types of processes: those which are type 1 and those which are type 2.
 
 What are Type 1 Processes?
-- unconscious, automatic, no attention or memory required
+- unconscious, automatic, no attention or memory required, not intentional or controllable, associative, heuristics, parallel, domain-specific and high capacity
+- such as heuristics
 
 What are Type 2 Processes?
-- conscious, manual, require attention and memory
+- conscious, manual, require attention and memory, slow, domain-general, low-capacity, intentional, controllable, rule-based, analytic, sequential
+- such as using rationality, reasoning, and rules
+
+What are issues which can be posed about dual process theory?
+- can't some of the attributes overlap from one process to the other?
+- some cognitive processes/thinking use both processes
+- how do type 2 processes 'switch on'?
+
+What are parallel-competitive models?
+- Type 1 and Type 2 processes are engaged from the start, but type 1 are faster than type 2, so type 1 produces output before type 2 processes.
+- if outputs conflict, additional type 2 processing may occur 
+example: 
+
+makes sense -> parallel competition means both processes occur at the same time, but it makes sense that type 1 finishes before type 2 as it is faster than type 2.
+
+what are default interventionist (serial) models?
+- type 1 engaged from start (not type 2)
+- type 1 outputs -> if response is suspect, type 2 processing might occur
+
+What are hybrid models?
+- multiple type 1 processes happen at same time, produce conflicting answers
+- if they conflict, type 2 is engaged.
+
+What is the cluster problem in dual processing theory?
+- that attributes on different sides of the chart might overlap:
+  unconscious (T1) and slow (T2): sleeping on a problem
+  unconscious (T1) and intentional (T2): skilled activity (speaking, driving)
+  uncontrollable (T1) and intentional (T2): bat and ball problem
+  unintentional (T1) and controllable (T2): stereotyping, mimicing others
+
+how are heuristics related to dual processing theory?
+- heuristics are rule-based (like t2 processes) but they are quick, automatic, unconscious
+
+how can memory be divided?
+1: sensory
+2: working 
+3: long-term -> procedural
+             -> declarative -> episodic
+                            -> semantic
+
+what is the working-memory model?
+1: central executive: attention controller
+2: phonological loop: verbal + auditory information
+3: visuospatial sketchpad: visual + spatial info
+4: episodic buffer: memory store, verbal, auditory, visual, spatial info (sensory)
+
+what is an example of the working memory model? 
+students struggling to study / pay attention while listening to music with lyrics, it is better to study listening to music w/o lyrics because visual items (digits) are recoded using subvocalization (phonological loop), lyrics interfere with phonological loops
+
+what are the functions of the central executive?
+1: focus attention
+2: divide attention
+3: switch attention between tasks
+4: interface with long-term memory
+
+what is the function of the phonological loop?
+1: phonological store: short-term storage for speech + sounds
+2: rehearsal process: repetition of sounds transfers into long-term memory
+
+what is visuospatial sketchpad?
+- visual info (identifying objects)
+- spatial info (locating objects)
+
+what is the episodic buffer?
+storage component of central executive: working memory holds long sentences
+
+what is the clustering problem in dual process theory?
+- the argument against dual process theory, that they are not truly 2 distinct processes because some of their attributes overlap (some t1 attributes could be allocated to t2 processes and vice versa)
+
+
+
+What is the new unconscious?
+- individual cannot self-report some cognitive states or processes because they are unconscious (inaccessible)
+
+
